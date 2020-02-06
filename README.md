@@ -2,8 +2,8 @@
 
 commands
   1. For Permutation Program:
-      g++ permutation.cpp
-      ./a.out permutation.txt
+      1. g++ permutation.cpp
+      2. ./a.out permutation.txt
   
   2. For Tree Program:
       g++ tree.cpp

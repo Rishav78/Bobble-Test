@@ -1,8 +1,9 @@
-hello
-world
-how
-are
-you
-yes
-why
-not
+hello, 1
+world, 22
+how, 3
+are, 4
+you, 5
+yes, 6
+why, 7
+not, 8
+helloooooooooo, 9

@@ -8,11 +8,9 @@ commands
   2. For Tree Program:
       1. g++ tree.cpp
     
-      A. To Load From File:
-          1. ./a.out load tree.txt
-     
-      B. To Create and serialize:
-          1. ./a.out create tree.txt tree2.txt
+        A. To Load From File: ( ./a.out load tree.txt )
+
+        B. To Create and serialize: ( ./a.out create tree.txt tree2.txt )
     
    3. For Word Suggestion:
        1. g++ autocomplete.cpp

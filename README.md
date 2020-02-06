@@ -13,5 +13,5 @@ commands
         B. To Create and serialize: ( ./a.out create tree.txt tree2.txt )
     
    3. For Word Suggestion:
-       1. g++ autocomplete.cpp
+       1. g++ suggestions.cpp
        2. ./a.out dictinonary.txt (word)

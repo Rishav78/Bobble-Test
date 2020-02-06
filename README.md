@@ -6,14 +6,14 @@ commands
       2. ./a.out permutation.txt
   
   2. For Tree Program:
-      g++ tree.cpp
+      1. g++ tree.cpp
     
-      To Load From File:
-        ./a.out load tree.txt
+      A. To Load From File:
+          2. ./a.out load tree.txt
      
-      To Create and serialize:
-        ./a.out create tree.txt tree2.txt
+      B. To Create and serialize:
+          3. ./a.out create tree.txt tree2.txt
     
    3. For Word Suggestion:
-       g++ autocomplete.cpp
-       ./a.out dictinonary.txt (word)
+       1. g++ autocomplete.cpp
+       2. ./a.out dictinonary.txt (word)
